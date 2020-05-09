@@ -23,7 +23,8 @@
 <ul>
   <li><b>superficie00</b>:<br>Video processing system featuring two layers of chroma key and a drawing-based mask.<br>
   <a href="https://youtu.be/_dF8P_29jfk"><img src="https://i9.ytimg.com/vi/_dF8P_29jfk/mq3.jpg?sqp=CL6i2_UF&rs=AOn4CLCYVLytDfO_v1YHPUk_hi4LIk-gZw" alt="video thumbnail of superficie00 demo"></a>
-  </li><br>
+  </li>
+  <br>
   <li><b>superficie01</b>:<br>AV system that uses Kinect data to process video, and transforms it into OSC messages to control sound in an exterior application.<br>
   <a href="https://youtu.be/AybdiwCJn-w"><img src="https://i.ytimg.com/vi/AybdiwCJn-w/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAaggMRFF9qfVFZey-7whisZAc3ZA" alt="video thumbnail of superficie01 demo"></a>
   </li>
